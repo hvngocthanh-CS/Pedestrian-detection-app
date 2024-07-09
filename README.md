@@ -1,4 +1,4 @@
-## Pedestrian Detection App
+#  Pedestrian Detection App
 <div align="center">
  <h1> <img src="./public/app.png" width="1000px"></h1>
 </div>
