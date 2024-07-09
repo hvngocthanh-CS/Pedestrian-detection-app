@@ -1,4 +1,4 @@
-How to run
+#How to run
 
 ```streamlit run main.py```
 
