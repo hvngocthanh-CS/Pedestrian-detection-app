@@ -3,6 +3,6 @@
  <h1> <img src="./public/app.png" width="1000px"></h1>
 </div>
 
-#  How to run
+## How to run
 
 ```streamlit run main.py```
